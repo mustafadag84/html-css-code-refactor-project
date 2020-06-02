@@ -43,7 +43,7 @@ h1 .seo {
 }
 
 
-#nav li {
+li {
     display: inline-block;
     margin-left: 25px; 
 }
@@ -118,9 +118,9 @@ aside {
 }
 
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+#benefit-lead,
+#benefit-brand,
+#benefit-cost {
     
     margin-bottom: 32px;
 }
